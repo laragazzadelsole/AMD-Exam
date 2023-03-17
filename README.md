@@ -1,4 +1,4 @@
-# AMD-Exam
+# Algorithms for Massive Data - Exam Project
 
 ## Amazon US costumer Review Link Analysis
 
