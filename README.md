@@ -1,6 +1,6 @@
 # Algorithms for Massive Data - Exam Project
 
-## Amazon US costumer Review Link Analysis
+## Amazon US Costumer Review Link Analysis
 
 The aim of this project is to create a ranking system that could be used
 in order to establish a sequence in which the reviews of Amazon products should be shown. 
