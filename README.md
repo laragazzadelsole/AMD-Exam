@@ -12,5 +12,5 @@ would be given more importance to customers that left many, but meaningless revi
 to those who left fewer, but more effective reviews. In fact, the PageRank score doesn’t give any information of the usefulness of the reviews left by users. However, on Amazon it is possible for users
 to rate a review as ”useful”. This data is captured by the variable "helpful_votes" in the dataset. 
 So, in addition to the PageRank score I evaluated the ”helpfulness score” and add it to PageRank, to create a new ordering. \
-The data used for the project is a subset of the Amazon US Costumer Review dataset. Due to the the size of the data Spark is used in order to parallelize the computation and to make the model scalable also for bigger datasets. 
+The data used for the project is a subset of the Amazon US Costumer Review dataset, that contains more than 100 million of rows. Due to the the size of the data Spark is used in order to parallelize the computation and to make the model scalable also for bigger datasets. 
 
